@@ -34,7 +34,7 @@ We may update or modify these ToS at any time without notice. It is your respons
 
 ## 7. Contact Information
 
-If you have questions or concerns about these ToS, please contact us via email or our discord server by running the /contact command.
+If you have questions or concerns about these ToS, please contact us via email or our Discord server by running the /contact command.
 
 ## 8. Entire Agreement
 
